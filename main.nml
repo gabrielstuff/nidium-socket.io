@@ -5,8 +5,6 @@
         <identifier>my.test.app</identifier>
     </meta>
     <assets>
-        <script>
-           load('./dist/app.bundle.js') 
-        </script>
+        <script src="./dist/app.bundle.js"></script>
     </assets>
 </application>
