@@ -1,0 +1,12 @@
+<application version="0.1" html5="true">
+    <meta>
+        <title>Tweet test</title>
+        <viewport>300x300</viewport>
+        <identifier>my.test.app</identifier>
+    </meta>
+    <assets>
+        <script>
+           load('./dist/app.bundle.js') 
+        </script>
+    </assets>
+</application>
